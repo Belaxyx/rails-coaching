@@ -1,0 +1,25 @@
+// Place all the styles related to the Answers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.ques {
+  width: 600px;
+  margin-bottom: 40px;
+  padding:20px;
+  border-left: 6px solid #DDDDDD;
+  margin-top: 30px;
+}
+
+
+.ans {
+  width: 600px;
+  margin-bottom: 40px;
+  padding:20px;
+  border-left: 6px solid #DDDDDD;
+  background-color: #FFFEE1;
+}
+
+p {
+  font-size: 14px;
+}
+
+
